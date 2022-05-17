@@ -7,7 +7,7 @@ This project makes extensive use of Machine Learning to detect the people wander
 
 ## Screenshots
 
-![Home](./assets/one.png?raw=true "Home Page")
+![Home](./assets/one.jpg?raw=true "Home Page")
 ![Zonal Statistics](./assets/two.png?raw=true "Zonal Statistics")
 ![Graph](./assets/three.png?raw=true "Graph")
 
