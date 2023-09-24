@@ -6,6 +6,7 @@ This project makes extensive use of Machine Learning to detect the people wander
 - Also for Innotech 2k22.
 
 ## Screenshots
+![image](https://github.com/shivamshi/covizone/assets/67598248/c695a551-73a1-4bc9-825c-aee5b624e9dd)
 
 ![Home](./assets/one.jpg?raw=true "Home Page")
 ![Zonal Statistics](./assets/two.png?raw=true "Zonal Statistics")
