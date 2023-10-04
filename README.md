@@ -18,10 +18,6 @@ This project makes extensive use of Machine Learning to detect the people wander
 - Python
 - [Firebase](https://firebase.google.com/)
 
-## Status
-
-In Progress...
-
 ## View Here
 
 [CoviZone](https://prajesheleven.github.io/innohacks-db/)
